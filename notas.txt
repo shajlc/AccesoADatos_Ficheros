@@ -1,0 +1,4 @@
+Hugo*10*Desarrollo de Interfaz
+Irene*7*Sistema de Gestión Empresarial
+María*5*Acceso a datos
+Ángel*7*Inglés
